@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Application\\Questor.Application.csproj": {}
+    "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Application\\Questor.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Application\\Questor.Application.csproj": {
+    "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Application\\Questor.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Application\\Questor.Application.csproj",
+        "projectUniqueName": "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Application\\Questor.Application.csproj",
         "projectName": "Questor.Application",
-        "projectPath": "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Application\\Questor.Application.csproj",
-        "packagesPath": "C:\\Users\\Vitor Hugo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Application\\obj\\",
+        "projectPath": "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Application\\Questor.Application.csproj",
+        "packagesPath": "C:\\Users\\vrodrigues4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vitor Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vrodrigues4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Domain.Aux\\Questor.Domain.Aux.csproj": {
-                "projectPath": "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Domain.Aux\\Questor.Domain.Aux.csproj"
+              "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Domain.Aux\\Questor.Domain.Aux.csproj": {
+                "projectPath": "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Domain.Aux\\Questor.Domain.Aux.csproj"
               },
-              "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Domain\\Questor.Domain.csproj": {
-                "projectPath": "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Domain\\Questor.Domain.csproj"
+              "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Domain\\Questor.Domain.csproj": {
+                "projectPath": "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Domain\\Questor.Domain.csproj"
               }
             }
           }
@@ -45,6 +45,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -90,24 +95,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Domain.Aux\\Questor.Domain.Aux.csproj": {
+    "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Domain.Aux\\Questor.Domain.Aux.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Domain.Aux\\Questor.Domain.Aux.csproj",
+        "projectUniqueName": "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Domain.Aux\\Questor.Domain.Aux.csproj",
         "projectName": "Questor.Domain.Aux",
-        "projectPath": "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Domain.Aux\\Questor.Domain.Aux.csproj",
-        "packagesPath": "C:\\Users\\Vitor Hugo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Domain.Aux\\obj\\",
+        "projectPath": "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Domain.Aux\\Questor.Domain.Aux.csproj",
+        "packagesPath": "C:\\Users\\vrodrigues4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Domain.Aux\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vitor Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vrodrigues4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -128,6 +133,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -163,24 +173,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Domain\\Questor.Domain.csproj": {
+    "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Domain\\Questor.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Domain\\Questor.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Domain\\Questor.Domain.csproj",
         "projectName": "Questor.Domain",
-        "projectPath": "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Domain\\Questor.Domain.csproj",
-        "packagesPath": "C:\\Users\\Vitor Hugo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Domain\\obj\\",
+        "projectPath": "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Domain\\Questor.Domain.csproj",
+        "packagesPath": "C:\\Users\\vrodrigues4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vrodrigues4\\source\\repos\\Questor\\Questor.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vitor Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vrodrigues4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -201,6 +211,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -236,7 +251,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

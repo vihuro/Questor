@@ -15,3 +15,21 @@ C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\obj\Debug\net6.0\re
 C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.csproj.CopyComplete
 C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Domain.Aux.dll
 C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Domain.Aux.pdb
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Application.deps.json
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Application.dll
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Application.pdb
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Domain.Aux.dll
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Domain.dll
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Domain.Aux.pdb
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Domain.pdb
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.csproj.AssemblyReference.cache
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.AssemblyInfoInputs.cache
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.AssemblyInfo.cs
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.csproj.CoreCompileInputs.cache
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.sourcelink.json
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor..B84E6162.Up2Date
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.dll
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\obj\Debug\net6.0\refint\Questor.Application.dll
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.pdb
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Application\obj\Debug\net6.0\ref\Questor.Application.dll

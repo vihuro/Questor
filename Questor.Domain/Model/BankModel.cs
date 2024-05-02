@@ -10,6 +10,7 @@ namespace Questor.Domain.Model
         [Required]
         public long Code { get; set; }
         [Required]
+        [Range(0.0, 1, ErrorMessage = "O valor deve ser entre 0.0 e 1")]
         public decimal PorcentageInterest { get; set; }
     }
 }

@@ -12,7 +12,7 @@ using Questor.Persistence.Context;
 namespace Questor.Persistence.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240502025531_FirstMigration")]
+    [Migration("20240502122907_FirstMigration")]
     partial class FirstMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -43,7 +43,8 @@ namespace Questor.Persistence.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(50)
+                        .HasColumnType("character varying(50)");
 
                     b.Property<decimal>("PorcentageInterest")
                         .HasColumnType("numeric");
@@ -75,20 +76,23 @@ namespace Questor.Persistence.Migrations
 
                     b.Property<string>("Observation")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(100)
+                        .HasColumnType("character varying(100)");
 
-                    b.Property<string>("PayerCPF")
+                    b.Property<string>("PayerCPFORCNPJ")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(18)
+                        .HasColumnType("character varying(18)");
 
                     b.Property<string>("PayerName")
                         .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("character varying(50)");
 
-                    b.Property<string>("RecipientCPF")
+                    b.Property<string>("RecipientCPFORCNPJ")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(18)
+                        .HasColumnType("character varying(18)");
 
                     b.Property<string>("RecipientName")
                         .IsRequired()

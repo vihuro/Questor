@@ -9,3 +9,15 @@ C:\Users\Vitor Hugo\source\repos\Questor\Questor.Domain\obj\Debug\net6.0\Questor
 C:\Users\Vitor Hugo\source\repos\Questor\Questor.Domain\obj\Debug\net6.0\refint\Questor.Domain.dll
 C:\Users\Vitor Hugo\source\repos\Questor\Questor.Domain\obj\Debug\net6.0\Questor.Domain.pdb
 C:\Users\Vitor Hugo\source\repos\Questor\Questor.Domain\obj\Debug\net6.0\ref\Questor.Domain.dll
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Domain\bin\Debug\net6.0\Questor.Domain.deps.json
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Domain\bin\Debug\net6.0\Questor.Domain.dll
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Domain\bin\Debug\net6.0\Questor.Domain.pdb
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Domain\obj\Debug\net6.0\Questor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Domain\obj\Debug\net6.0\Questor.Domain.AssemblyInfoInputs.cache
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Domain\obj\Debug\net6.0\Questor.Domain.AssemblyInfo.cs
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Domain\obj\Debug\net6.0\Questor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Domain\obj\Debug\net6.0\Questor.Domain.sourcelink.json
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Domain\obj\Debug\net6.0\Questor.Domain.dll
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Domain\obj\Debug\net6.0\refint\Questor.Domain.dll
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Domain\obj\Debug\net6.0\Questor.Domain.pdb
+C:\Users\vrodrigues4\source\repos\Questor\Questor.Domain\obj\Debug\net6.0\ref\Questor.Domain.dll

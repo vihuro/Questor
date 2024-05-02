@@ -16,7 +16,7 @@ namespace Questor.Persistence.Migrations
                 {
                     Id = table.Column<int>(type: "integer", nullable: false)
                         .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
-                    Name = table.Column<string>(type: "text", nullable: false),
+                    Name = table.Column<string>(type: "character varying(50)", maxLength: 50, nullable: false),
                     Code = table.Column<long>(type: "bigint", nullable: false),
                     PorcentageInterest = table.Column<decimal>(type: "numeric", nullable: false),
                     DateCreated = table.Column<DateTime>(type: "timestamp with time zone", nullable: false),
@@ -34,12 +34,12 @@ namespace Questor.Persistence.Migrations
                     Id = table.Column<int>(type: "integer", nullable: false)
                         .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
                     PayerName = table.Column<string>(type: "character varying(50)", maxLength: 50, nullable: false),
-                    PayerCPF = table.Column<string>(type: "text", nullable: false),
+                    PayerCPFORCNPJ = table.Column<string>(type: "character varying(18)", maxLength: 18, nullable: false),
                     RecipientName = table.Column<string>(type: "character varying(50)", maxLength: 50, nullable: false),
-                    RecipientCPF = table.Column<string>(type: "text", nullable: false),
+                    RecipientCPFORCNPJ = table.Column<string>(type: "character varying(18)", maxLength: 18, nullable: false),
                     Value = table.Column<decimal>(type: "numeric", nullable: false),
                     DueDate = table.Column<DateTime>(type: "timestamp with time zone", nullable: false),
-                    Observation = table.Column<string>(type: "text", nullable: false),
+                    Observation = table.Column<string>(type: "character varying(100)", maxLength: 100, nullable: false),
                     BankId = table.Column<int>(type: "integer", nullable: false),
                     DateCreated = table.Column<DateTime>(type: "timestamp with time zone", nullable: false),
                     DateUpdated = table.Column<DateTime>(type: "timestamp with time zone", nullable: false)
