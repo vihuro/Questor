@@ -1,0 +1,17 @@
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Application.deps.json
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Application.dll
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Application.pdb
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Domain.dll
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Domain.pdb
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.csproj.AssemblyReference.cache
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.AssemblyInfoInputs.cache
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.AssemblyInfo.cs
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.dll
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\obj\Debug\net6.0\refint\Questor.Application.dll
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.pdb
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\obj\Debug\net6.0\ref\Questor.Application.dll
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\obj\Debug\net6.0\Questor.Application.csproj.CopyComplete
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Domain.Aux.dll
+C:\Users\Vitor Hugo\source\repos\Questor\Questor.Application\bin\Debug\net6.0\Questor.Domain.Aux.pdb

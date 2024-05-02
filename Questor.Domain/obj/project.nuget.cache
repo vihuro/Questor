@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ij9+U2ypqhQfNASSQcR2zbL593OvpJzEIXzKc+0ma+X62aH7aERQIxwqr0kRMn50M0TE+logztMBvi+sWskLNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vitor Hugo\\source\\repos\\Questor\\Questor.Domain\\Questor.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitor Hugo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Vitor Hugo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Vitor Hugo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
